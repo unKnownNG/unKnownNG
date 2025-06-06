@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Open Source Contributor from India</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding" />
+  <img src="https://raw.githubusercontent.com/unKnownNG/unKnownNG/main/Source%20files/Cool%20Programming.gif" width="900" />
 </p>
+
 
 - 🔭 I’m currently working on **Custom OS and Custom Programming language**  
 - 👯 I’m looking to collaborate on **Open Source Projects**  
