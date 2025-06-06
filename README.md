@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Open Source Contributor from India</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/unKnownNG/unKnownNG/main/Source%20files/Cool%20Programming.gif" width="900" />
+  <img src="https://raw.githubusercontent.com/unKnownNG/unKnownNG/main/Source%20files/Cool%20Programming.gif" width="800" />
 </p>
 
 
