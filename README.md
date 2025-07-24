@@ -50,4 +50,7 @@
 ---
 
 
-https://github.com/unKnownNG/unKnownNG/blob/output/github-contribution-grid-snake.gif
+## 📈 GitHub Activity Graph
+
+![snake gif](https://github.com/unKnownNG/unKnownNG/blob/output/github-snake-dark.svg)
+
