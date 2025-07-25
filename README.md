@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohammed Daiyaan</h1>
-<h3 align="center">A passionate Open Source Contributor from India</h3>
+<h3 align="center">A passionate Open Source Contributor and Competitive Programmer from India</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/unKnownNG/unKnownNG/main/Source%20files/Cool%20Programming.gif" width="800" />
 </p>
 
-**Contributor to [Optuna](https://github.com/optuna/optuna) – an open-source hyperparameter optimization framework.**
+**Contributor @[Optuna](https://github.com/optuna/optuna).**
+
+
 
 - 🔭 I’m currently working on **Custom OS and Custom Programming language**  
-- 👯 I’m looking to collaborate on **Open Source Projects**  
+-  I’m looking to collaborate on **Open Source Projects**  
 - 🤝 I’m looking for help with **Creating a 16 bit processor**  
 - 💬 Ask me about **Web development, competitive programming, pentesting**
 
