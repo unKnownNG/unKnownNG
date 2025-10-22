@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **Custom OS and Custom Programming language using LLVM**  
+- 🔭 I’m currently working on **Custom OS and Custom Programming**  
 -  I’m looking to collaborate on **Open Source Projects**  
 - 🤝 I’m looking for help with **Creating a kernal**  
 - 💬 Ask me about **Web development, competitive programming, pentesting**
