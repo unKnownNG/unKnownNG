@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/unKnownNG/unKnownNG/main/Source%20files/Cool%20Programming.gif" width="800" />
 </p>
 
-**Contributor @[Optuna](https://github.com/optuna/optuna).**
+**Contributor @[Optuna](https://github.com/optuna/optuna), @[Meshery](https://github.com/meshery)**
 
 
 
