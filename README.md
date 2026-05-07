@@ -19,13 +19,24 @@
 
 ## 🚀 Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [CareerForge](https://github.com/unKnownNG/CareerForge) | AI career guidance platform with MCP-based context delivery, MBTI/RIASEC personality onboarding, and a CareerBot powered by LLM | Next.js · FastAPI · Supabase · MCP |
-| [miniOS](https://github.com/unKnownNG/miniOS) | Bare-metal x86 OS from scratch with a custom bootloader, VGA text driver, interactive shell, and basic memory management | C · x86 Assembly |
-| [LLVM Compiler](https://github.com/unKnownNG/llvm-compiler) | Custom compiler pipeline from lexer → parser → AST → LLVM IR with constant folding and dead code elimination | C++ · LLVM |
-| [Terminal Portfolio](https://github.com/unKnownNG/terminal-portfolio-website) | Personal portfolio styled as an interactive Unix terminal with tab autocomplete and command history | Next.js · TypeScript |
-| [Competetive-Programming](https://github.com/unKnownNG/Competetive-Programming) | Curated solutions and templates for Codeforces, LeetCode, and AtCoder — organized by topic and difficulty | C++ |
+- **[CareerForge](https://github.com/unKnownNG/CareerForge)** — AI-powered career guidance platform with MCP-based context delivery, MBTI/RIASEC personality onboarding, and a CareerBot powered by LLM
+- **[Custom OS](https://github.com/unKnownNG/Custom-OS)** — Bare-metal x86 OS from scratch with a custom bootloader, VGA text driver, interactive shell, and basic memory management
+- **[LLVM Compiler](https://github.com/unKnownNG/llvm-compiler)** — Custom compiler pipeline from lexer → parser → AST → LLVM IR with constant folding and dead code elimination
+- **[Custom Compiler](https://github.com/unKnownNG/Custom-Compiler)** — Standalone compiler implementation built from scratch without LLVM tooling
+- **[Custom Programming Language](https://github.com/unKnownNG/Custom-Programming-Language)** — Designed and implemented a custom programming language with its own syntax and interpreter
+- **[Kernel Development](https://github.com/unKnownNG/Kernel-Development)** — Low-level kernel development experiments and OS internals exploration
+- **[Terminal Portfolio](https://github.com/unKnownNG/terminal-portfolio-website)** — Personal portfolio styled as an interactive Unix terminal with tab autocomplete and command history
+- **[Bevy Snake Game](https://github.com/unKnownNG/Bevy-Snake-Game)** — Snake game built with the Bevy game engine in Rust
+- **[Cluster-X](https://github.com/unKnownNG/Cluster-X)** — Python-based clustering tool for data analysis and visualization
+- **[Code-Novel](https://github.com/unKnownNG/Code-Novel)** — TypeScript project exploring interactive code-driven storytelling
+- **[Iron-Nova](https://github.com/unKnownNG/Iron-Nova)** — JavaScript project built around a custom-named application or game engine
+- **[JobPilot](https://github.com/unKnownNG/JobPilot)** — Python tool to assist with job search automation and tracking
+- **[PGPA](https://github.com/unKnownNG/PGPA)** — TypeScript application for GPA and academic performance tracking
+- **[Internship Allocation](https://github.com/unKnownNG/Internship-Allocation)** — System for optimally allocating students to internship positions
+- **[MySQL Database Manager](https://github.com/unKnownNG/MySQL-Database-Manager)** — Python-based CLI or GUI tool for managing MySQL databases
+- **[Object Detection Using Python](https://github.com/unKnownNG/Object-Detection-Using-Python)** — Real-time object detection using Python and computer vision libraries
+- **[DisApp](https://github.com/notAbishek/DisApp)** — TypeScript Discord-related application
+- **[Competitive Programming](https://github.com/unKnownNG/Competetive-Programming)** — Curated solutions and templates for Codeforces, LeetCode, and AtCoder, organized by topic and difficulty
 
 ---
 
