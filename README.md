@@ -8,7 +8,7 @@
 🌐 **[Portfolio Website](https://terminal-portfolio-website-green.vercel.app/)** &nbsp;&nbsp;
 <br>
 <br>
-**Contributor @[Optuna](https://github.com/optuna/optuna) · @[Meshery](https://github.com/meshery/meshery.io)**
+**Contributor @[Optuna](https://github.com/optuna/optuna) · @[Meshery](https://github.com/meshery/meshery.io) · @[opensre](https://github.com/Tracer-Cloud/opensre)**
 
 - 🔭 Currently building **[CareerForge](https://github.com/unKnownNG/CareerForge)** — an AI-powered career platform for engineering students
 - ⚙️ Deep interests in **low-level systems, compilers, and agentic AI**
