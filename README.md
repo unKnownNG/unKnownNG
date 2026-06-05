@@ -10,7 +10,7 @@
 <br>
 **Contributor @[Optuna](https://github.com/optuna/optuna) · @[Meshery](https://github.com/meshery/meshery.io) · @[opensre](https://github.com/Tracer-Cloud/opensre)**
 
-- 🔭 Currently building **[CareerForge](https://github.com/unKnownNG/CareerForge)** — an AI-powered career platform for engineering students
+- 🔭 Currently building **[JobPilot](https://github.com/unKnownNG/JobPilot)** — a multi-agent job search automation system
 - ⚙️ Deep interests in **low-level systems, compilers, and agentic AI**
 - 💬 Ask me about **systems programming, competitive programming, full-stack dev, open source**
 - 🏆 GitHub Achievements: **Pull Shark · Pair Extraordinaire**
@@ -19,6 +19,7 @@
 
 ## 🚀 Projects
 
+- **[JobPilot](https://github.com/unKnownNG/JobPilot)** — Multi-agent job search automation system with Scout, Tailor, Applier, and Sentinel agents; powered by Claude Haiku/Sonnet with python-jobspy integration
 - **[CareerForge](https://github.com/unKnownNG/CareerForge)** — AI-powered career guidance platform with MCP-based context delivery, MBTI/RIASEC personality onboarding, and a CareerBot powered by LLM
 - **[Custom OS](https://github.com/unKnownNG/Custom-OS)** — Bare-metal x86 OS from scratch with a custom bootloader, VGA text driver, interactive shell, and basic memory management
 - **[LLVM Compiler](https://github.com/unKnownNG/llvm-compiler)** — Custom compiler pipeline from lexer → parser → AST → LLVM IR with constant folding and dead code elimination
@@ -30,7 +31,6 @@
 - **[Cluster-X](https://github.com/unKnownNG/Cluster-X)** — Python-based clustering tool for data analysis and visualization
 - **[Code-Novel](https://github.com/unKnownNG/Code-Novel)** — TypeScript project exploring interactive code-driven storytelling
 - **[Iron-Nova](https://github.com/unKnownNG/Iron-Nova)** — JavaScript project built around a custom-named application or game engine
-- **[JobPilot](https://github.com/unKnownNG/JobPilot)** — Python tool to assist with job search automation and tracking
 - **[PGPA](https://github.com/unKnownNG/PGPA)** — TypeScript application for GPA and academic performance tracking
 - **[Internship Allocation](https://github.com/unKnownNG/Internship-Allocation)** — System for optimally allocating students to internship positions
 - **[MySQL Database Manager](https://github.com/unKnownNG/MySQL-Database-Manager)** — Python-based CLI or GUI tool for managing MySQL databases
@@ -50,6 +50,12 @@ Acknowledged contributor in **two consecutive official releases** (v4.5.0 & v4.6
 |----|-------------|---------|
 | [#6151](https://github.com/optuna/optuna/pull/6151) | Refactored return statement style in RDB storage alembic migration — aligned codebase to Optuna's convention of tuple unpacking without parentheses | [v4.5.0](https://github.com/optuna/optuna/releases/tag/v4.5.0) |
 | [#6309](https://github.com/optuna/optuna/pull/6309) | Modernized string formatting in `optuna/study/study.py` — migrated legacy `.format()` calls to f-strings | [v4.6.0](https://github.com/optuna/optuna/releases/tag/v4.6.0) |
+
+### [OpenSRE](https://github.com/Tracer-Cloud/opensre) — Open Source AI SRE Toolkit (⭐ 6.4k)
+
+| PR | Description | Status |
+|----|-------------|--------|
+| [#1735](https://github.com/Tracer-Cloud/opensre/pull/1735) | Created `docs/good-first-issues/README.md` — a step-by-step onboarding guide for new contributors covering issue discovery, claim/branch/PR workflow, and local check commands; updated `README.md` and `CONTRIBUTING.md` with links to the guide | ✅ Merged |
 
 ### [Meshery](https://github.com/meshery/meshery.io) — CNCF Cloud Native Management Plane
 
