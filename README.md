@@ -22,11 +22,7 @@
 - **[JobPilot](https://github.com/unKnownNG/JobPilot)** — Multi-agent job search automation system with Scout, Tailor, Applier, and Sentinel agents; powered by Claude Haiku/Sonnet with python-jobspy integration
 - **[CareerForge](https://github.com/unKnownNG/CareerForge)** — AI-powered career guidance platform with MCP-based context delivery, MBTI/RIASEC personality onboarding, and a CareerBot powered by LLM
 - **[Custom OS](https://github.com/unKnownNG/Custom-OS)** — Bare-metal x86 OS from scratch with a custom bootloader, VGA text driver, interactive shell, and basic memory management
-- **[LLVM Compiler](https://github.com/unKnownNG/llvm-compiler)** — Custom compiler pipeline from lexer → parser → AST → LLVM IR with constant folding and dead code elimination
-<!-- - **[Custom Compiler](https://github.com/unKnownNG/Custom-Compiler)** — Standalone compiler implementation built from scratch without LLVM tooling
-- **[Custom Programming Language](https://github.com/unKnownNG/Custom-Programming-Language)** — Designed and implemented a custom programming language with its own syntax and interpreter
-- **[Kernel Development](https://github.com/unKnownNG/Kernel-Development)** — Low-level kernel development experiments and OS internals exploration
---> - **[Terminal Portfolio](https://github.com/unKnownNG/terminal-portfolio-website)** — Personal portfolio styled as an interactive Unix terminal with tab autocomplete and command history
+- **[Terminal Portfolio](https://github.com/unKnownNG/terminal-portfolio-website)** — Personal portfolio styled as an interactive Unix terminal with tab autocomplete and command history
 - **[Bevy Snake Game](https://github.com/unKnownNG/Bevy-Snake-Game)** — Snake game built with the Bevy game engine in Rust
 - **[Cluster-X](https://github.com/unKnownNG/Cluster-X)** — Python-based clustering tool for data analysis and visualization
 - **[Code-Novel](https://github.com/unKnownNG/Code-Novel)** — TypeScript project exploring interactive code-driven storytelling
