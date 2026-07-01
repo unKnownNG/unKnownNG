@@ -38,26 +38,18 @@
 
 ## 🌍 Open Source Contributions
 
-### [Optuna](https://github.com/optuna/optuna) — Hyperparameter Optimization Framework (⭐ 14k)
+**[Optuna](https://github.com/optuna/optuna)** — Hyperparameter Optimization Framework (⭐ 14k) · Acknowledged contributor in **two consecutive official releases** (v4.5.0 & v4.6.0)
 
-Acknowledged contributor in **two consecutive official releases** (v4.5.0 & v4.6.0).
+- **[#6151](https://github.com/optuna/optuna/pull/6151)** — Refactored return statement style in RDB storage alembic migration, aligning the codebase to Optuna's convention of tuple unpacking without parentheses *(shipped in [v4.5.0](https://github.com/optuna/optuna/releases/tag/v4.5.0))*
+- **[#6309](https://github.com/optuna/optuna/pull/6309)** — Modernized string formatting in `optuna/study/study.py`, migrating legacy `.format()` calls to f-strings *(shipped in [v4.6.0](https://github.com/optuna/optuna/releases/tag/v4.6.0))*
 
-| PR | Description | Release |
-|----|-------------|---------|
-| [#6151](https://github.com/optuna/optuna/pull/6151) | Refactored return statement style in RDB storage alembic migration — aligned codebase to Optuna's convention of tuple unpacking without parentheses | [v4.5.0](https://github.com/optuna/optuna/releases/tag/v4.5.0) |
-| [#6309](https://github.com/optuna/optuna/pull/6309) | Modernized string formatting in `optuna/study/study.py` — migrated legacy `.format()` calls to f-strings | [v4.6.0](https://github.com/optuna/optuna/releases/tag/v4.6.0) |
+**[OpenSRE](https://github.com/Tracer-Cloud/opensre)** — Open Source AI SRE Toolkit (⭐ 6.4k)
 
-### [OpenSRE](https://github.com/Tracer-Cloud/opensre) — Open Source AI SRE Toolkit (⭐ 6.4k)
+- **[#1735](https://github.com/Tracer-Cloud/opensre/pull/1735)** — Created `docs/good-first-issues/README.md`, a step-by-step onboarding guide for new contributors covering issue discovery, claim/branch/PR workflow, and local check commands; updated `README.md` and `CONTRIBUTING.md` with links to the guide *(✅ Merged)*
 
-| PR | Description | Status |
-|----|-------------|--------|
-| [#1735](https://github.com/Tracer-Cloud/opensre/pull/1735) | Created `docs/good-first-issues/README.md` — a step-by-step onboarding guide for new contributors covering issue discovery, claim/branch/PR workflow, and local check commands; updated `README.md` and `CONTRIBUTING.md` with links to the guide | ✅ Merged |
+**[Meshery](https://github.com/meshery/meshery.io)** — CNCF Cloud Native Management Plane
 
-### [Meshery](https://github.com/meshery/meshery.io) — CNCF Cloud Native Management Plane
-
-| PR | Description | Status |
-|----|-------------|--------|
-| [#2453](https://github.com/meshery/meshery.io/pull/2453) | Fixed duplicate PR entries in release notes by enabling `no-duplicate-categories` in the Release Drafter CI config | ✅ Merged |
+- **[#2453](https://github.com/meshery/meshery.io/pull/2453)** — Fixed duplicate PR entries in release notes by enabling `no-duplicate-categories` in the Release Drafter CI config *(✅ Merged)*
 
 ---
 
