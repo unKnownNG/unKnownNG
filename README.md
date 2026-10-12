@@ -19,51 +19,38 @@
 
 ## 🚀 Projects
 
-A collection of personal projects, experiments, learning builds, and product ideas across systems programming, AI, web development, and game dev.
+A curated, ranked list of highlighted projects that showcase systems, AI, web, and game development work.
 
-- **[A-December-Of-Algorithms-2023](https://github.com/unKnownNG/A-December-Of-Algorithms-2023)** — December algorithm challenge focused on building core problem-solving skills.
-- **[A-December-Of-Algorithms-2024](https://github.com/unKnownNG/A-December-Of-Algorithms-2024)** — Follow-up algorithm challenge for 2024 with a strong focus on consistency and growth.
-- **[Bevy-Snake-Game](https://github.com/unKnownNG/Bevy-Snake-Game)** — Snake game built with the Bevy game engine in Rust.
-- **[Black-Hole-Simulation](https://github.com/unKnownNG/Black-Hole-Simulation)** — Interactive simulation exploring astrophysical visualization concepts.
-- **[Cluster-X](https://github.com/unKnownNG/Cluster-X)** — Python-based clustering tool for data analysis and visualization.
-- **[Competetive-Programming](https://github.com/unKnownNG/Competetive-Programming)** — Curated solutions, templates, and notes for competitive programming.
-- **[Custom-OS](https://github.com/unKnownNG/Custom-OS)** — Bare-metal x86 operating system built from scratch with a custom bootloader and shell.
-- **[first-contributions](https://github.com/unKnownNG/first-contributions)** — Beginner-friendly repo for learning open source contribution workflows.
-- **[github-workshop-portfolios](https://github.com/unKnownNG/github-workshop-portfolios)** — Portfolio project created during a GitHub workshop.
-- **[github_traning](https://github.com/unKnownNG/github_traning)** — GitHub learning and training exercises.
-- **[GUI-Portfolio-Website](https://github.com/unKnownNG/GUI-Portfolio-Website)** — Portfolio website with a graphical UI.
-- **[Internship-Allocation](https://github.com/unKnownNG/Internship-Allocation)** — System for allocating students to internship opportunities efficiently.
-- **[Iron-Nova](https://github.com/unKnownNG/Iron-Nova)** — Custom application/game engine concept project.
-- **[JobPilot](https://github.com/unKnownNG/JobPilot)** — Multi-agent job search automation system with specialized agents for scouting and applying.
-- **[Kernel-Development](https://github.com/unKnownNG/Kernel-Development)** — Learning project focused on operating system and kernel internals.
-- **[meshery](https://github.com/unKnownNG/meshery)** — Cloud native management platform project focused on infrastructure workflows.
-- **[meshery.io](https://github.com/unKnownNG/meshery.io)** — Website for the Meshery ecosystem.
-- **[MySQL-Database-Manager](https://github.com/unKnownNG/MySQL-Database-Manager)** — Python-based tool for managing MySQL databases.
-- **[Neural-Network-from-Scratch](https://github.com/unKnownNG/Neural-Network-from-Scratch)** — Neural network implementation built from the ground up.
-- **[Object-Detection-Using-Python](https://github.com/unKnownNG/Object-Detection-Using-Python)** — Computer vision project using Python for real-time object detection.
-- **[optuna](https://github.com/unKnownNG/optuna)** — Hyperparameter optimization framework exploration and contribution repo.
-- **[PGPA](https://github.com/unKnownNG/PGPA)** — TypeScript-based GPA and academic performance tracker.
-- **[pollinations](https://github.com/unKnownNG/pollinations)** — Open-source Gen-AI platform experiments.
-- **[Portfolio-Website](https://github.com/unKnownNG/Portfolio-Website)** — Personal portfolio website.
-- **[Praestantia](https://github.com/unKnownNG/Praestantia)** — Event/project website for the Praestantia initiative.
-- **[Praestantia-2k24](https://github.com/unKnownNG/Praestantia-2k24)** — Praestantia special edition for 2024.
-- **[praestantia-deploy](https://github.com/unKnownNG/praestantia-deploy)** — Deployment-focused repo for the Praestantia website.
-- **[preastantia-2k25](https://github.com/unKnownNG/preastantia-2k25)** — Praestantia initiative repo for 2025.
-- **[PsyPathAI](https://github.com/unKnownNG/PsyPathAI)** — AI-powered research and career guidance platform.
-- **[Python-Tkinter-2048-Game](https://github.com/unKnownNG/Python-Tkinter-2048-Game)** — 2048 game built using Python and Tkinter.
-- **[Python-Tkinter-Scientific_Calculator](https://github.com/unKnownNG/Python-Tkinter-Scientific_Calculator)** — Scientific calculator project built with Tkinter.
-- **[QCrit-Runtime-Manager](https://github.com/unKnownNG/QCrit-Runtime-Manager)** — Runtime management and monitoring project.
-- **[Secure-File-Transfer-System](https://github.com/unKnownNG/Secure-File-Transfer-System)** — Secure system for transferring files.
-- **[ShorlyNot-Router-Firmware](https://github.com/unKnownNG/ShorlyNot-Router-Firmware)** — Router firmware project focused on embedded and networking experimentation.
-- **[Snake-Game](https://github.com/unKnownNG/Snake-Game)** — Classic snake game project.
-- **[SpeedChess](https://github.com/unKnownNG/SpeedChess)** — Chess game project.
-- **[STM32-Learning](https://github.com/unKnownNG/STM32-Learning)** — Embedded systems learning path around STM32 development.
-- **[SupplyMind](https://github.com/unKnownNG/SupplyMind)** — Supply management and optimization project.
-- **[TDMA_Brain](https://github.com/unKnownNG/TDMA_Brain)** — Brain / AI experimentation repo.
-- **[Terminal-Agent](https://github.com/unKnownNG/Terminal-Agent)** — Terminal-based AI or agent project.
-- **[Terminal-Portfolio-Website](https://github.com/unKnownNG/Terminal-Portfolio-Website)** — Terminal-inspired portfolio site.
-- **[Training](https://github.com/unKnownNG/Training)** — General training and learning repository.
-- **[unKnownNG](https://github.com/unKnownNG/unKnownNG)** — Personal profile repository and project hub.
+1. **[JobPilot](https://github.com/unKnownNG/JobPilot)** — Multi-agent job search automation system (current, high-impact; systems + agentic AI)
+2. **[PsyPathAI](https://github.com/unKnownNG/PsyPathAI)** — AI-powered career & guidance platform (product + AI)
+3. **[Custom-OS](https://github.com/unKnownNG/Custom-OS)** — Bare-metal x86 OS built from scratch with a custom bootloader and interactive shell (low-level systems showcase)
+4. **[Kernel-Development](https://github.com/unKnownNG/Kernel-Development)** — Kernel and OS internals learning projects (reinforces systems expertise)
+5. **[Terminal-Portfolio-Website](https://github.com/unKnownNG/Terminal-Portfolio-Website)** — Terminal-styled interactive portfolio (deployed demo and unique UI/UX)
+6. **[Portfolio-Website](https://github.com/unKnownNG/Portfolio-Website)** — Canonical personal portfolio (showcases projects and links)
+7. **[Internship-Allocation](https://github.com/unKnownNG/Internship-Allocation)** — Student–intern allocation system (algorithms + practical application)
+8. **[Neural-Network-from-Scratch](https://github.com/unKnownNG/Neural-Network-from-Scratch)** — Neural network implementation built from the ground up (ML fundamentals)
+9. **[MySQL-Database-Manager](https://github.com/unKnownNG/MySQL-Database-Manager)** — Practical tooling for managing MySQL databases (Python)
+10. **[Bevy-Snake-Game](https://github.com/unKnownNG/Bevy-Snake-Game)** — Snake game built with the Bevy engine in Rust (game dev)
+11. **[Black-Hole-Simulation](https://github.com/unKnownNG/Black-Hole-Simulation)** — Interactive astrophysical simulation and visualization (added per request)
+12. **[SpeedChess](https://github.com/unKnownNG/SpeedChess)** — Chess game project (game / UI)
+13. **[QCrit-Runtime-Manager](https://github.com/unKnownNG/QCrit-Runtime-Manager)** — Runtime management and monitoring tools
+14. **[ShorlyNot-Router-Firmware](https://github.com/unKnownNG/ShorlyNot-Router-Firmware)** — Router firmware and embedded networking experiments
+15. **[TDMA_Brain](https://github.com/unKnownNG/TDMA_Brain)** — AI / brain experimentation and prototyping
+16. **[Python-Tkinter-2048-Game](https://github.com/unKnownNG/Python-Tkinter-2048-Game)** — 2048 game implemented with Python Tkinter (quick demo / learning project)
+
+---
+
+## Other / Experiments & Learning
+
+A compact list of smaller, practice, or workshop repositories (kept out of primary highlights to reduce noise).
+
+- A-December-Of-Algorithms-2023, A-December-Of-Algorithms-2024
+- Cluster-X, Object-Detection-Using-Python
+- Competetive-Programming
+- first-contributions, github-workshop-portfolios, github_traning, Training
+- Iron-Nova, Code-Novel, PGPA
+- STM32-Learning, Secure-File-Transfer-System, Python-Tkinter-Scientific_Calculator
+- Praestantia, praestantia-deploy, preastantia-2k25
 
 ---
 
@@ -77,10 +64,6 @@ A collection of personal projects, experiments, learning builds, and product ide
 **[OpenSRE](https://github.com/Tracer-Cloud/opensre)** — Open Source AI SRE Toolkit (⭐ 6.4k)
 
 - **[#1735](https://github.com/Tracer-Cloud/opensre/pull/1735)** — Created `docs/good-first-issues/README.md`, a step-by-step onboarding guide for new contributors covering issue discovery, claiming work, and contribution flow.
-
-**[Meshery](https://github.com/meshery/meshery.io)** — CNCF Cloud Native Management Plane
-
-- **[#2453](https://github.com/meshery/meshery.io/pull/2453)** — Fixed duplicate PR entries in release notes by enabling `no-duplicate-categories` in the Release Drafter CI config *(✅ Merged)*
 
 ---
 
